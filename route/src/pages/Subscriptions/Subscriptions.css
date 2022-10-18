@@ -1,0 +1,13 @@
+.subscriptions{
+    padding: 20px;
+    font-size: 3rem;
+}
+.subscription-list{
+    list-style-type: none;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin: 5px;
+}
+.subscription-list:hover{
+    box-shadow: 3px 3px;
+}

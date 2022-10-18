@@ -1,0 +1,45 @@
+.messages{
+    font-size: 3rem;
+    text-align: center;
+}
+.messages-content{
+    overflow: hidden;
+    padding-bottom: 5px;
+}
+.messages-list{
+padding-left: 20px;
+}
+.btn-new{
+    border: 1px solid #000;
+    border-radius: 20px;
+    padding: 2px;
+    width: 40px;
+}
+.search-field{
+height: 30px;
+margin: 10px;
+width: 50%;
+font-size: 1.5rem;
+}
+::placeholder{
+font-size: 1.5rem;
+}
+.search-form{
+    display: flex;
+
+}
+.check{
+    margin: auto;
+}
+.search-btn{
+height: 30px;
+width: 10vw;
+border-radius: 3px;
+box-sizing: border-box;
+margin: 10px;
+}
+.search-btn:hover{
+    background-color: rgb(227, 173, 230);
+    box-shadow: 2px 2px;
+    
+    }

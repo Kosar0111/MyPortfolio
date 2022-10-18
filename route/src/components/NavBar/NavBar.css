@@ -1,0 +1,30 @@
+.list__item{
+    display: flex;
+    border: 1px solid #000;
+    margin: 20px;
+    padding: 10px 10px 10px 20px;
+    font-size: 1.5rem;
+    border-radius: 5px;
+    text-align: center;
+   
+}
+.list__item:hover{
+   box-shadow: 3px 3px grey;
+    text-decoration: underline;
+}
+
+a{
+    color: #000;
+    text-decoration: none;
+    padding-left: 25px;
+}
+.active{
+    color: blue;
+    cursor: default;
+    text-decoration: none;
+}
+
+.img__nav{
+    width: 25px;
+    height: 25px;
+}

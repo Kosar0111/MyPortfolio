@@ -1,0 +1,3 @@
+[submodule "prom_ua"]
+	path = prom_ua
+	url = https://github.com/Kosar0111/prom_ua.git

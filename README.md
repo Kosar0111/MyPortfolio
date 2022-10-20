@@ -32,6 +32,26 @@
 <img width="1146" alt="Снимок экрана 2022-10-18 в 22 25 39" src="https://user-images.githubusercontent.com/81988686/196922572-3f3a6f2a-8d81-4c2b-bee9-d165cde8f6bf.png">
 <img width="1150" alt="Снимок экрана 2022-10-18 в 22 24 06" src="https://user-images.githubusercontent.com/81988686/196922607-f46e9e5f-b938-4693-a8f6-b8086e632a0b.png">
 <img width="1742" alt="Снимок экрана 2022-10-18 в 22 24 27" src="https://user-images.githubusercontent.com/81988686/196922686-e212ebb8-6184-4f19-8ba4-f58f94b84bc1.png">
+<label>Libs and technologies<lable/>
+<ul>
+<li>React</li>
+<li>redux-toolkit</li>
+<li>react-redux-hooks(useDispatch, useSelector)</li>
+<li>react-router</li>
+<li>react-router-dom, react-router-dom-hook(useRoutes)</li>
+<li>react-Select</li>
+<li>ESLint, prettier</li>
+<li>Formik, Yup</li>
+<li>json-server</li>
+<li>react-i18next(internalization)</li>
+<li>react-redux</li>
+<li>react-toastify</li>
+<li>react-tooltip</li>
+<li>Typescript</li>
+<li>uuid</li>
+<li>concurrently</li>
+<li>HTML, CSS</li>
+</ul>
 <hr/>
 
 <h3 id="CurrencyExchange">CurrencyExchange</h3>

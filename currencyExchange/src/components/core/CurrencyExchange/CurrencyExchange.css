@@ -1,0 +1,41 @@
+.go-back {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 40px;
+  padding: 10px;
+  cursor: pointer;
+  position: absolute;
+  right: 50px;
+  top: 50%;
+  border-radius: 10px;
+  background-color: blueviolet;
+  color: #fff;
+}
+.sum-money {
+  width: 40vw;
+  height: 30px;
+  font-size: 1.5rem;
+}
+.sum-label {
+  font-size: 2rem;
+  margin-right: 30px;
+  color: blueviolet;
+  font-weight: bold;
+}
+.total {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+.total-title {
+  font-size: 2rem;
+  color: blueviolet;
+  font-weight: bold;
+}
+.total-sum {
+  font-size: 2rem;
+  color: blueviolet;
+  font-weight: bold;
+}

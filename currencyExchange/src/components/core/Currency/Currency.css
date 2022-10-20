@@ -1,0 +1,19 @@
+.currency-wrapper {
+  display: flex;
+  padding: 20px;
+  margin-bottom: 30px;
+  border: 2px solid black;
+  border-radius: 10px;
+  color: aqua;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.currency-wrapper__short,
+.currency-wrapper__value {
+  margin: 30px;
+}
+.currency-wrapper__country {
+  flex-grow: 1;
+}

@@ -1,0 +1,26 @@
+.wrapper {
+  background: url('https://s.04563.com.ua/section/promonewsintext/upload/images/promo/intext/000/052/332/80782_5f158efe249c6.jpg')
+    no-repeat;
+  background-size: 100vw 100vh;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+h1 {
+  color: coral;
+  font-size: 2rem;
+  letter-spacing: 0.3rem;
+}
+.choice {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+.label {
+  font-size: 1.5rem;
+  color: aquamarine;
+}

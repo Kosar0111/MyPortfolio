@@ -19,18 +19,29 @@
 </ul>
 
 <br><br><br><br><br>
+<h2>React-Redux</h2>
+<h3 id="Prom">Prom-ua</h3>
+<p><a href='https://github.com/Kosar0111/prom_ua/tree/73f65d09c25be04e8aa7a0f22652c0e13dbfc192'>see code</a></p>
+<img width="1763" alt="Снимок экрана 2022-10-20 в 13 14 47" src="https://user-images.githubusercontent.com/81988686/196922353-45e7e250-000d-4a1f-b64a-56cb6ed1e62e.png">
+<img width="1767" alt="Снимок экрана 2022-10-20 в 13 15 07" src="https://user-images.githubusercontent.com/81988686/196922412-9fe4925e-1bec-49f5-b7e4-948d4f2d19d4.png">
+<img width="1765" alt="Снимок экрана 2022-10-20 в 13 15 27" src="https://user-images.githubusercontent.com/81988686/196922530-5a996768-5849-4c99-9926-845f9b761bbc.png">
+<img width="1146" alt="Снимок экрана 2022-10-18 в 22 25 39" src="https://user-images.githubusercontent.com/81988686/196922572-3f3a6f2a-8d81-4c2b-bee9-d165cde8f6bf.png">
+<img width="1150" alt="Снимок экрана 2022-10-18 в 22 24 06" src="https://user-images.githubusercontent.com/81988686/196922607-f46e9e5f-b938-4693-a8f6-b8086e632a0b.png">
+<img width="1742" alt="Снимок экрана 2022-10-18 в 22 24 27" src="https://user-images.githubusercontent.com/81988686/196922686-e212ebb8-6184-4f19-8ba4-f58f94b84bc1.png">
+
+
 
 <h2>JavaScript</h2>
-<h2 id="Calculator"><a href="">Calculator</a></h2>
+<h3 id="Calculator">Calculator</h3>
 <p><a href='https://github.com/Kosar0111/MyPortfolio/tree/main/calc 2.html'>see code</a></p>
 <img width="410" alt="Снимок экрана 2022-10-18 в 21 15 27" src="https://user-images.githubusercontent.com/81988686/196912000-3df268a6-1136-40bc-9b37-e4cd16015a87.png">
 
-<h2 id="Memory"><a href="">Game memory</a></h2>
+<h3 id="Memory">Game memory</h3>
 <p><a href='https://github.com/Kosar0111/MyPortfolio/tree/main/Memory'>see code</a></p>
 <img width="643" alt="Снимок экрана 2022-10-18 в 21 12 19" src="https://user-images.githubusercontent.com/81988686/196919641-4e10a2af-df53-4063-94a3-434c60a79c34.png">
 <img width="655" alt="Снимок экрана 2022-10-18 в 21 12 05" src="https://user-images.githubusercontent.com/81988686/196919674-354ebd8f-c64a-40d9-8c5e-526110e7d4d9.png">
 
-<h2 id="Snake"><a href="">Game snake</a></h2>
+<h3 id="Snake">Game snake</h3>
 <p><a href='https://github.com/Kosar0111/MyPortfolio/tree/main/snake'>see code</a></p>
 <img width="614" alt="Снимок экрана 2022-10-18 в 21 10 37" src="https://user-images.githubusercontent.com/81988686/196920221-26c0cc48-853c-4c44-a5e0-c662ec6de661.png">
 

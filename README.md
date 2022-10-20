@@ -26,6 +26,6 @@
 
 
 <h2>HTML-CSS</h2>
-<h3 id="Tynione"><a href="https://kosar0111.github.io/MyPortfolio/#Tynione">Tynione</a></h3>
+<h3 id="Tynione"><a href="https://kosar0111.github.io/MyPortfolio/Tynione">Tynione</a></h3>
 <p><a href='https://github.com/Kosar0111/MyPortfolio/tree/main/Site'>see code</a></p>
 <img src="https://user-images.githubusercontent.com/81988686/196903903-b9b6e257-03ff-46d1-9b69-4de067174f5b.png">

@@ -19,7 +19,10 @@
 </ul>
 
 <br><br><br><br><br>
-<h2 id="Calculator">Calculator</h2>
+<h2 id="Calculator"><a href="">Calculator</a></h2>
+<p><a href='https://github.com/Kosar0111/MyPortfolio/tree/main/calc 2.html'>see code</a></p>
+<img src=<img width="410" alt="Снимок экрана 2022-10-18 в 21 15 27" src="https://user-images.githubusercontent.com/81988686/196912000-3df268a6-1136-40bc-9b37-e4cd16015a87.png">
+
 
 
 <h2>HTML-CSS</h2>

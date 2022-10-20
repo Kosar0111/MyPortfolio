@@ -96,6 +96,24 @@
 <h3 id="TodoPagination">Todo DBJson Pagination</h3>
 <p><a href='https://github.com/Kosar0111/MyPortfolio/tree/main/react-ts-dbServer-pagination'>see code</a></p>
 <img width="1266" alt="Снимок экрана 2022-10-18 в 21 32 45" src="https://user-images.githubusercontent.com/81988686/196955110-b253dc2e-b5aa-48d5-b4f2-e4562616c45e.png">
+      <label>Libs and technologies<lable/>
+<ul>
+<li>React</li>
+<li>redux-toolkit</li>
+<li>axios</li>
+<li>react-hooks</li>
+<li>react-redux-hooks(useDispatch, useSelector)</li>
+<li>react-router</li>
+<li>react-dom</li>
+<li>ESLint, prettier</li>
+<li>Formik, Yup</li>
+<li>json-server</li>
+<li>react-redux</li>
+<li>Typescript</li>
+<li>uuid</li>
+<li>concurrently</li>
+<li>HTML, CSS</li>
+</ul>
 <hr/>
 
 

@@ -33,7 +33,7 @@
 
 <h2>JavaScript</h2>
 <h3 id="Calculator">Calculator</h3>
-<p><a href='https://github.com/Kosar0111/MyPortfolio/tree/main/calc 2.html'>see code</a></p>
+<p><a href='https://github.com/Kosar0111/MyPortfolio/tree/main/Calculator'>see code</a></p>
 <img width="410" alt="Снимок экрана 2022-10-18 в 21 15 27" src="https://user-images.githubusercontent.com/81988686/196912000-3df268a6-1136-40bc-9b37-e4cd16015a87.png">
 
 <h3 id="Memory">Game memory</h3>

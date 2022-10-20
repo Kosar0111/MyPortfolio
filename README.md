@@ -86,6 +86,7 @@
 <li>redux-toolkit</li>
 <li>axios</li>
 <li>react-hooks</li>
+<li>local Storage</li>
 <li>react-redux-hooks(useDispatch, useSelector)</li>
 <li>ESLint, prettier</li>
 <li>local Storage</li>

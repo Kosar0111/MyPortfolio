@@ -6,6 +6,8 @@
 <li><a href='#RouteApp'>NHLRoute</a></li>
 <li><a href='#CurrencyExchange'>CurrencyExchange</a></li>
 <li><a href='#Tricers'>Tricers</a></li>
+<li><a href='#TodoSimple'>Simple Todo</a></li>
+
 </ul>
 
 <h2>JS</h2>
@@ -57,6 +59,10 @@
 <img width="1753" alt="Снимок экрана 2022-10-18 в 21 28 56" src="https://user-images.githubusercontent.com/81988686/196956076-9006bdf5-f69e-4f1d-b0c9-6f0faa435bce.png">
 <img width="1751" alt="Снимок экрана 2022-10-18 в 21 29 20" src="https://user-images.githubusercontent.com/81988686/196956093-0a0673fc-b717-48e2-817c-2575fc046fd2.png">
 <img width="1747" alt="Снимок экрана 2022-10-18 в 21 29 33" src="https://user-images.githubusercontent.com/81988686/196956145-8f5c0fc4-8318-4b88-9246-3405504124da.png">
+
+<h3 id="TodoSimple">Simple Todo</h3>
+<p><a href='https://github.com/Kosar0111/react-07/tree/main/todo-list'>see code</a></p>
+<img width="1757" alt="Снимок экрана 2022-10-20 в 16 27 07" src="https://user-images.githubusercontent.com/81988686/196963072-d8fd8239-8586-4910-98b0-fef39e94728c.png">
 
 
 <h2>JavaScript</h2>

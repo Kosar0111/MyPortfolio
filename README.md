@@ -70,6 +70,7 @@
 <li>react-hooks</li>
 <li>react-redux-hooks(useDispatch, useSelector)</li>
 <li>react-router</li>
+<li>local Storage</li>
 <li>ESLint, prettier</li>
 <li>react-redux</li>
 <li>Typescript</li>
@@ -86,7 +87,7 @@
 <li>redux-toolkit</li>
 <li>axios</li>
 <li>react-hooks</li>
-<li>local Storage</li>
+<li>socket-io</li>
 <li>react-redux-hooks(useDispatch, useSelector)</li>
 <li>ESLint, prettier</li>
 <li>local Storage</li>

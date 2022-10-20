@@ -38,20 +38,24 @@
 <p><a href='https://github.com/Kosar0111/CurrencyExchange'>see code</a></p>
 <img width="1763" alt="Снимок экрана 2022-10-20 в 15 31 30" src="https://user-images.githubusercontent.com/81988686/196953815-f1ec3518-30d1-4e1b-9b14-d69021d35a47.png">
 <img width="1761" alt="Снимок экрана 2022-10-20 в 15 31 44" src="https://user-images.githubusercontent.com/81988686/196953871-1528a6e9-0178-4212-8840-5b9c131480f8.png">
+<hr/>
 
 <h3 id="Tricers">Tricers</h3>
 <p><a href='https://github.com/Kosar0111/Tickers'>see code</a></p>
 <img width="1769" alt="Снимок экрана 2022-10-20 в 15 38 02" src="https://user-images.githubusercontent.com/81988686/196954065-00ea9b2a-83d2-4710-9f8c-7e93047c6aa7.png">
+<hr/>
 
 <h3 id="TodoPagination">Todo DBJson Pagination</h3>
 <p><a href='https://github.com/Kosar0111/MyPortfolio/tree/main/react-ts-dbServer-pagination'>see code</a></p>
 <img width="1266" alt="Снимок экрана 2022-10-18 в 21 32 45" src="https://user-images.githubusercontent.com/81988686/196955110-b253dc2e-b5aa-48d5-b4f2-e4562616c45e.png">
+<hr/>
 
 
 <h3 id="TodoAddAndEdit">Add and Edit Todo</h3>
 <p><a href='https://github.com/Kosar0111/Tickers](https://github.com/Kosar0111/MyPortfolio/tree/main/react-redux-todo'>see code</a></p>
 <img width="1750" alt="Снимок экрана 2022-10-18 в 21 35 22" src="https://user-images.githubusercontent.com/81988686/196955721-5a8917c9-1793-4cf1-b3a4-d2765bd9d70e.png">
 <img width="1759" alt="Снимок экрана 2022-10-18 в 21 36 02" src="https://user-images.githubusercontent.com/81988686/196955742-ab5c6fc2-5a01-43bc-9a80-7e49c9ab167e.png">
+<hr/>
 
 
 
@@ -60,26 +64,30 @@
 <img width="1753" alt="Снимок экрана 2022-10-18 в 21 28 56" src="https://user-images.githubusercontent.com/81988686/196956076-9006bdf5-f69e-4f1d-b0c9-6f0faa435bce.png">
 <img width="1751" alt="Снимок экрана 2022-10-18 в 21 29 20" src="https://user-images.githubusercontent.com/81988686/196956093-0a0673fc-b717-48e2-817c-2575fc046fd2.png">
 <img width="1747" alt="Снимок экрана 2022-10-18 в 21 29 33" src="https://user-images.githubusercontent.com/81988686/196956145-8f5c0fc4-8318-4b88-9246-3405504124da.png">
+<hr/>
 
 <h3 id="TodoSimple">Simple Todo</h3>
 <p><a href='https://github.com/Kosar0111/react-07/tree/main/todo-list'>see code</a></p>
 <img width="1757" alt="Снимок экрана 2022-10-20 в 16 27 07" src="https://user-images.githubusercontent.com/81988686/196963072-d8fd8239-8586-4910-98b0-fef39e94728c.png">
+<hr/>
 
 
 <h2>JavaScript</h2>
 <h3 id="Calculator">Calculator</h3>
 <p><a href='https://github.com/Kosar0111/MyPortfolio/tree/main/Calculator'>see code</a></p>
 <img width="410" alt="Снимок экрана 2022-10-18 в 21 15 27" src="https://user-images.githubusercontent.com/81988686/196912000-3df268a6-1136-40bc-9b37-e4cd16015a87.png">
+<hr/>
 
 <h3 id="Memory">Game memory</h3>
 <p><a href='https://github.com/Kosar0111/MyPortfolio/tree/main/Memory'>see code</a></p>
 <img width="643" alt="Снимок экрана 2022-10-18 в 21 12 19" src="https://user-images.githubusercontent.com/81988686/196919641-4e10a2af-df53-4063-94a3-434c60a79c34.png">
 <img width="655" alt="Снимок экрана 2022-10-18 в 21 12 05" src="https://user-images.githubusercontent.com/81988686/196919674-354ebd8f-c64a-40d9-8c5e-526110e7d4d9.png">
+<hr/>
 
 <h3 id="Snake">Game snake</h3>
 <p><a href='https://github.com/Kosar0111/MyPortfolio/tree/main/snake'>see code</a></p>
 <img width="614" alt="Снимок экрана 2022-10-18 в 21 10 37" src="https://user-images.githubusercontent.com/81988686/196920221-26c0cc48-853c-4c44-a5e0-c662ec6de661.png">
-
+<hr/>
 
 <h2>HTML-CSS</h2>
 <h3 id="Tynione"><a href="https://kosar0111.github.io/MyPortfolio/Tynione">Tynione</a></h3>

@@ -23,6 +23,14 @@
 <p><a href='https://github.com/Kosar0111/MyPortfolio/tree/main/calc 2.html'>see code</a></p>
 <img width="410" alt="Снимок экрана 2022-10-18 в 21 15 27" src="https://user-images.githubusercontent.com/81988686/196912000-3df268a6-1136-40bc-9b37-e4cd16015a87.png">
 
+<h2 id="Memory"><a href="">Game memory</a></h2>
+<p><a href='https://github.com/Kosar0111/MyPortfolio/tree/main/Memory'>see code</a></p>
+<img width="643" alt="Снимок экрана 2022-10-18 в 21 12 19" src="https://user-images.githubusercontent.com/81988686/196919641-4e10a2af-df53-4063-94a3-434c60a79c34.png">
+<img width="655" alt="Снимок экрана 2022-10-18 в 21 12 05" src="https://user-images.githubusercontent.com/81988686/196919674-354ebd8f-c64a-40d9-8c5e-526110e7d4d9.png">
+
+<h2 id="Snake"><a href="">Game snake</a></h2>
+<p><a href='https://github.com/Kosar0111/MyPortfolio/tree/main/snake'>see code</a></p>
+<img width="614" alt="Снимок экрана 2022-10-18 в 21 10 37" src="https://user-images.githubusercontent.com/81988686/196920221-26c0cc48-853c-4c44-a5e0-c662ec6de661.png">
 
 
 <h2>HTML-CSS</h2>

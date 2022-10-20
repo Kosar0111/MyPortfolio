@@ -40,7 +40,8 @@
 <li>react-hooks</li>
 <li>react-redux-hooks(useDispatch, useSelector)</li>
 <li>react-router</li>
-<li>react-router-dom, react-router-dom-hook(useRoutes)</li>
+<li>react-dom(createPortal)</li>
+<li>react-router-dom, react-router-dom-hook(useRoutes, useNavigate)</li>
 <li>react-Select</li>
 <li>ESLint, prettier</li>
 <li>Formik, Yup</li>
@@ -60,6 +61,20 @@
 <p><a href='https://github.com/Kosar0111/CurrencyExchange'>see code</a></p>
 <img width="1763" alt="Снимок экрана 2022-10-20 в 15 31 30" src="https://user-images.githubusercontent.com/81988686/196953815-f1ec3518-30d1-4e1b-9b14-d69021d35a47.png">
 <img width="1761" alt="Снимок экрана 2022-10-20 в 15 31 44" src="https://user-images.githubusercontent.com/81988686/196953871-1528a6e9-0178-4212-8840-5b9c131480f8.png">
+  <label>Libs and technologies<lable/>
+<ul>
+<li>React</li>
+<li>redux-toolkit</li>
+<li>axios</li>
+<li>react-hooks</li>
+<li>react-redux-hooks(useDispatch, useSelector)</li>
+<li>react-router</li>
+<li>ESLint, prettier</li>
+<li>react-redux</li>
+<li>Typescript</li>
+<li>HTML, CSS</li>
+</ul>
+<hr/>
 <hr/>
 
 <h3 id="Tricers">Tricers</h3>

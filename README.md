@@ -36,6 +36,8 @@
 <ul>
 <li>React</li>
 <li>redux-toolkit</li>
+<li>axios</li>
+<li>react-hooks</li>
 <li>react-redux-hooks(useDispatch, useSelector)</li>
 <li>react-router</li>
 <li>react-router-dom, react-router-dom-hook(useRoutes)</li>

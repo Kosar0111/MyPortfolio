@@ -4,6 +4,8 @@
 <li><a href='#TodoPagination'>Todo DBJson Pagination</a></li>
 <li><a href='#TodoAddAndEdit'>Add and Edit Todo</a></li>
 <li><a href='#RouteApp'>NHLRoute</a></li>
+<li><a href='#CurrencyExchange'>CurrencyExchange</a></li>
+<li><a href='#Tricers'>Tricers</a></li>
 </ul>
 
 <h2>JS</h2>
@@ -29,6 +31,14 @@
 <img width="1150" alt="Снимок экрана 2022-10-18 в 22 24 06" src="https://user-images.githubusercontent.com/81988686/196922607-f46e9e5f-b938-4693-a8f6-b8086e632a0b.png">
 <img width="1742" alt="Снимок экрана 2022-10-18 в 22 24 27" src="https://user-images.githubusercontent.com/81988686/196922686-e212ebb8-6184-4f19-8ba4-f58f94b84bc1.png">
 
+<h3 id="CurrencyExchange">CurrencyExchange</h3>
+<p><a href='https://github.com/Kosar0111/CurrencyExchange'>see code</a></p>
+<img width="1763" alt="Снимок экрана 2022-10-20 в 15 31 30" src="https://user-images.githubusercontent.com/81988686/196953815-f1ec3518-30d1-4e1b-9b14-d69021d35a47.png">
+<img width="1761" alt="Снимок экрана 2022-10-20 в 15 31 44" src="https://user-images.githubusercontent.com/81988686/196953871-1528a6e9-0178-4212-8840-5b9c131480f8.png">
+
+<h3 id="Tricers">Tricers</h3>
+<p><a href='https://github.com/Kosar0111/Tickers'>see code</a></p>
+<img width="1769" alt="Снимок экрана 2022-10-20 в 15 38 02" src="https://user-images.githubusercontent.com/81988686/196954065-00ea9b2a-83d2-4710-9f8c-7e93047c6aa7.png">
 
 
 <h2>JavaScript</h2>

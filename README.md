@@ -23,5 +23,4 @@
 
 <h2>HTML-CSS</h2>
 <p><a href='https://github.com/Kosar0111/MyPortfolio/tree/main/Site'>see code</a></p>
-<img src="![127 0 0 1_5500_Site_TYnione html](https://user-images.githubusercontent.com/81988686/196903903-b9b6e257-03ff-46d1-9b69-4de067174f5b.png)
-">
+<img src="https://user-images.githubusercontent.com/81988686/196903903-b9b6e257-03ff-46d1-9b69-4de067174f5b.png">

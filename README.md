@@ -40,6 +40,24 @@
 <p><a href='https://github.com/Kosar0111/Tickers'>see code</a></p>
 <img width="1769" alt="Снимок экрана 2022-10-20 в 15 38 02" src="https://user-images.githubusercontent.com/81988686/196954065-00ea9b2a-83d2-4710-9f8c-7e93047c6aa7.png">
 
+<h3 id="TodoPagination">Todo DBJson Pagination</h3>
+<p><a href='https://github.com/Kosar0111/MyPortfolio/tree/main/react-ts-dbServer-pagination'>see code</a></p>
+<img width="1266" alt="Снимок экрана 2022-10-18 в 21 32 45" src="https://user-images.githubusercontent.com/81988686/196955110-b253dc2e-b5aa-48d5-b4f2-e4562616c45e.png">
+
+
+<h3 id="TodoAddAndEdit">Add and Edit Todo</h3>
+<p><a href='https://github.com/Kosar0111/Tickers](https://github.com/Kosar0111/MyPortfolio/tree/main/react-redux-todo'>see code</a></p>
+<img width="1750" alt="Снимок экрана 2022-10-18 в 21 35 22" src="https://user-images.githubusercontent.com/81988686/196955721-5a8917c9-1793-4cf1-b3a4-d2765bd9d70e.png">
+<img width="1759" alt="Снимок экрана 2022-10-18 в 21 36 02" src="https://user-images.githubusercontent.com/81988686/196955742-ab5c6fc2-5a01-43bc-9a80-7e49c9ab167e.png">
+
+
+
+<h3 id="RouteApp">NHLRoute</h3>
+<p><a href='https://github.com/Kosar0111/MyPortfolio/tree/main/route'>see code</a></p>
+<img width="1753" alt="Снимок экрана 2022-10-18 в 21 28 56" src="https://user-images.githubusercontent.com/81988686/196956076-9006bdf5-f69e-4f1d-b0c9-6f0faa435bce.png">
+<img width="1751" alt="Снимок экрана 2022-10-18 в 21 29 20" src="https://user-images.githubusercontent.com/81988686/196956093-0a0673fc-b717-48e2-817c-2575fc046fd2.png">
+<img width="1747" alt="Снимок экрана 2022-10-18 в 21 29 33" src="https://user-images.githubusercontent.com/81988686/196956145-8f5c0fc4-8318-4b88-9246-3405504124da.png">
+
 
 <h2>JavaScript</h2>
 <h3 id="Calculator">Calculator</h3>

@@ -48,6 +48,7 @@
 <li>json-server</li>
 <li>react-i18next(internalization)</li>
 <li>react-redux</li>
+<li>cookie</li>
 <li>react-toastify</li>
 <li>react-tooltip</li>
 <li>Typescript</li>
@@ -75,11 +76,21 @@
 <li>HTML, CSS</li>
 </ul>
 <hr/>
-<hr/>
 
 <h3 id="Tricers">Tricers</h3>
 <p><a href='https://github.com/Kosar0111/Tickers'>see code</a></p>
 <img width="1769" alt="Снимок экрана 2022-10-20 в 15 38 02" src="https://user-images.githubusercontent.com/81988686/196954065-00ea9b2a-83d2-4710-9f8c-7e93047c6aa7.png">
+    <label>Libs and technologies<lable/>
+<ul>
+<li>React</li>
+<li>redux-toolkit</li>
+<li>axios</li>
+<li>react-hooks</li>
+<li>react-redux-hooks(useDispatch, useSelector)</li>
+<li>ESLint, prettier</li>
+<li>local Storage</li>
+<li>HTML, CSS</li>
+</ul>
 <hr/>
 
 <h3 id="TodoPagination">Todo DBJson Pagination</h3>

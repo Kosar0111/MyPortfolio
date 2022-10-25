@@ -147,6 +147,7 @@
 <img width="1753" alt="Снимок экрана 2022-10-18 в 21 28 56" src="https://user-images.githubusercontent.com/81988686/196956076-9006bdf5-f69e-4f1d-b0c9-6f0faa435bce.png">
 <img width="1751" alt="Снимок экрана 2022-10-18 в 21 29 20" src="https://user-images.githubusercontent.com/81988686/196956093-0a0673fc-b717-48e2-817c-2575fc046fd2.png">
 <img width="1747" alt="Снимок экрана 2022-10-18 в 21 29 33" src="https://user-images.githubusercontent.com/81988686/196956145-8f5c0fc4-8318-4b88-9246-3405504124da.png">
+<p>In this app I was practicing using react-router. There is used json-placeholder, for getting messages and render them. Also I used hooks useParams(for view and edit message), useNavigate (for checkout between pages). I did two-way binding for search for messages, there is possibilities to sort latest and oldest post. I was written (hoc - high order component).  </p>
 <label>Libs and technologies<lable/>
 <ul>
 <li>React</li>

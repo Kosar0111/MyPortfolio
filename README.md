@@ -81,7 +81,7 @@
 <h3 id="Tricers">Tricers</h3>
 <p><a href='https://github.com/Kosar0111/Tickers'>see code</a></p>
 <img width="1769" alt="Снимок экрана 2022-10-20 в 15 38 02" src="https://user-images.githubusercontent.com/81988686/196954065-00ea9b2a-83d2-4710-9f8c-7e93047c6aa7.png">
-           <p>In thia app I get data, from different API, with the help of socket-io, on a real time. And change tickers evry 5 sec.</p>
+           <p>In this app I get data, from definite API, with the help of socket-io, on a real time. And change tickers evry 5 sec.</p>
     <label>Libs and technologies<lable/>
 <ul>
 <li>React</li>

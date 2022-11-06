@@ -163,7 +163,7 @@
 <h3 id="TodoSimple">Simple Todo</h3>
 <p><a href='https://github.com/Kosar0111/react-07/tree/main/todo-list'>see code</a></p>
 <img width="1757" alt="Снимок экрана 2022-10-20 в 16 27 07" src="https://user-images.githubusercontent.com/81988686/196963072-d8fd8239-8586-4910-98b0-fef39e94728c.png">
-  <p>It's classic simple todo app, my first React-project. App allows create, delete, mark tasks. Also, you may filter tasks by status.</p>
+  <p>It's classic simple todo app, my first React-project. App allows create, delete, mark tasks. Also, you may filter tasks by status. I implemented to adaptability for different divasies from smal size to large size</p>
 <label>Libs and technologies<lable/>
 <ul>
 <li>React</li>

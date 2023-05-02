@@ -5,7 +5,7 @@
 <li><a href='#TodoAddAndEdit'>Add and Edit Todo</a></li>
 <li><a href='#RouteApp'>NHLRoute</a></li>
 <li><a href='#CurrencyExchange'>CurrencyExchange</a></li>
-<li><a href='#Tricers'>Tricers</a></li>
+<li><a href='#Tickers'>Tricers</a></li>
 <li><a href='#TodoSimple'>Simple Todo</a></li>
 
 </ul>
@@ -78,7 +78,7 @@
 </ul>
 <hr/>
 
-<h3 id="Tickers">Tricers</h3>
+<h3 id="Tickers">Tickers</h3>
 <p><a href='https://github.com/Kosar0111/Tickers'>see code</a></p>
 <img width="1769" alt="Снимок экрана 2022-10-20 в 15 38 02" src="https://user-images.githubusercontent.com/81988686/196954065-00ea9b2a-83d2-4710-9f8c-7e93047c6aa7.png">
            <p>In this app I get data, from definite API, with the help of socket-io, on a real time. And change tickers every 5 seconds.</p>

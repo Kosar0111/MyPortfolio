@@ -5,7 +5,7 @@
 <li><a href='#TodoAddAndEdit'>Add and Edit Todo</a></li>
 <li><a href='#RouteApp'>NHLRoute</a></li>
 <li><a href='#CurrencyExchange'>CurrencyExchange</a></li>
-<li><a href='#Tickers'>Tricers</a></li>
+<li><a href='#Tickers'>Tickers</a></li>
 <li><a href='#TodoSimple'>Simple Todo</a></li>
 
 </ul>

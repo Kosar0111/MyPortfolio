@@ -102,10 +102,8 @@
 <p><a href='https://github.com/Kosar0111/MyPortfolio/search-food'>see code</a></p>
 <img width="1792" alt="Снимок экрана 2023-07-05 в 19 34 43" src="https://github.com/Kosar0111/MyPortfolio/assets/81988686/8845ff78-15cf-4360-90b4-37180b1e2a8e">
 <img width="1792" alt="Снимок экрана 2023-07-05 в 19 35 20" src="https://github.com/Kosar0111/MyPortfolio/assets/81988686/1934ccee-9ea8-425f-bee0-f0864d9ad377">
-<img width="1792" alt="Снимок экрана 2023-<img width="1792" alt="Снимок экрана 2023-07-05 в 19 35 49" src="https://github.com/Kosar0111/MyPortfolio/assets/81988686/5b27c8ee-9f61-497a-9c3b-3eeeb7fb69a4">
-07-05 в 19 35 38" src="https://github.com/Kosar0111/MyPortfolio/assets/81988686/4c06d9b4-9a91-4c94-96f2-001b878d57cc">
-
-           <p>In this app I get data, from definite API, with the help of socket-io, on a real time. And change tickers every 5 seconds.</p>
+<img width="1792" alt="Снимок экрана 2023-07-05 в 19 35 49" src="https://github.com/Kosar0111/MyPortfolio/assets/81988686/c3a5c676-ae9a-4dad-903d-88b28c03cc90">
+ <p>In this app I get data, from definite API, with the help of socket-io, on a real time. And change tickers every 5 seconds.</p>
     <label>Libs and technologies<lable/>
 <ul>
 <li>React</li>

@@ -8,6 +8,8 @@
 <li><a href='#Tickers'>Tickers</a></li>
 <li><a href='#TodoSimple'>Simple Todo</a></li>
 <li><a href='#SearchFood'>Search Food</a></li>
+<li><a href='#Books'>Books</a></li>
+
 
 
 </ul>
@@ -109,7 +111,19 @@
 <li>React</li>
 <li>axios</li>
 <li>react-redux-hooks(useDispatch, useSelector)</li>
-<li>local Storage</li>
+<li>HTML, CSS</li>
+</ul>
+<hr/>
+
+<h3 id="Books">Books</h3>
+<img width="1792" alt="Снимок экрана 2023-07-05 в 22 29 07" src="https://github.com/Kosar0111/MyPortfolio/assets/81988686/bb4756da-bb0c-42b3-8cc8-9f41a1722191">
+<img width="1786" alt="Снимок экрана 2023-07-05 в 22 28 46" src="https://github.com/Kosar0111/MyPortfolio/assets/81988686/0d62b8d4-44fa-4c4a-a710-b5c4711f51d6">
+
+ <p>When we use this app, we have to type a title of any books, we'll get a list of books as well we will have a posibility to sort this list from oldest to newest and vice versa.</p>
+    <label>Libs and technologies<lable/>
+<ul>
+<li>React</li>
+<li>axios</li>
 <li>HTML, CSS</li>
 </ul>
 <hr/>

@@ -30,6 +30,7 @@
 <h2>React-Redux</h2>
 <h3 id="Prom">Prom-ua</h3>
 <p><a href='https://github.com/Kosar0111/prom_ua/tree/73f65d09c25be04e8aa7a0f22652c0e13dbfc192'>see code</a></p>
+<p><a href='https://prom-ua.vercel.app/'>View the app</a></p>
 <img width="1763" alt="Снимок экрана 2022-10-20 в 13 14 47" src="https://user-images.githubusercontent.com/81988686/196922353-45e7e250-000d-4a1f-b64a-56cb6ed1e62e.png">
 <img width="1767" alt="Снимок экрана 2022-10-20 в 13 15 07" src="https://user-images.githubusercontent.com/81988686/196922412-9fe4925e-1bec-49f5-b7e4-948d4f2d19d4.png">
 <img width="1765" alt="Снимок экрана 2022-10-20 в 13 15 27" src="https://user-images.githubusercontent.com/81988686/196922530-5a996768-5849-4c99-9926-845f9b761bbc.png">

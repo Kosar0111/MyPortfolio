@@ -65,6 +65,7 @@
 
 <h3 id="CurrencyExchange">CurrencyExchange</h3>
 <p><a href='https://github.com/Kosar0111/CurrencyExchange'>see code</a></p>
+<p><a href='https://currency-exchange-azure.vercel.app/'>View the app</a></p>
 <img width="1763" alt="Снимок экрана 2022-10-20 в 15 31 30" src="https://user-images.githubusercontent.com/81988686/196953815-f1ec3518-30d1-4e1b-9b14-d69021d35a47.png">
 <img width="1761" alt="Снимок экрана 2022-10-20 в 15 31 44" src="https://user-images.githubusercontent.com/81988686/196953871-1528a6e9-0178-4212-8840-5b9c131480f8.png">
   <label>Libs and technologies<lable/>
